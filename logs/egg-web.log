@@ -1,0 +1,371 @@
+2018-03-08 09:45:53,617 INFO 11928 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 09:45:53,697 INFO 11928 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 09:45:53,697 INFO 11928 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 09:45:53,936 INFO 11928 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 09:45:53,946 INFO 11928 [egg-security] use csrf middleware
+2018-03-08 09:45:53,946 INFO 11928 [egg-security] use methodnoallow middleware
+2018-03-08 09:45:53,956 INFO 11928 [egg-security] use noopen middleware
+2018-03-08 09:45:53,956 INFO 11928 [egg-security] use nosniff middleware
+2018-03-08 09:45:53,956 INFO 11928 [egg-security] use xssProtection middleware
+2018-03-08 09:45:53,956 INFO 11928 [egg-security] use xframe middleware
+2018-03-08 09:45:53,966 INFO 11928 [egg-security] use dta middleware
+2018-03-08 09:45:53,966 INFO 11928 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 09:45:54,026 INFO 11928 [egg-watcher:app] watcher start success
+2018-03-08 09:45:53,657 INFO 30124 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 09:45:53,726 INFO 30124 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 09:45:53,726 INFO 30124 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 09:45:53,966 INFO 30124 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 09:45:53,976 INFO 30124 [egg-security] use csrf middleware
+2018-03-08 09:45:53,976 INFO 30124 [egg-security] use methodnoallow middleware
+2018-03-08 09:45:53,976 INFO 30124 [egg-security] use noopen middleware
+2018-03-08 09:45:53,976 INFO 30124 [egg-security] use nosniff middleware
+2018-03-08 09:45:53,986 INFO 30124 [egg-security] use xssProtection middleware
+2018-03-08 09:45:53,986 INFO 30124 [egg-security] use xframe middleware
+2018-03-08 09:45:53,986 INFO 30124 [egg-security] use dta middleware
+2018-03-08 09:45:53,986 INFO 30124 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 09:45:54,056 INFO 30124 [egg-watcher:app] watcher start success
+2018-03-08 09:45:53,756 INFO 18904 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 09:45:53,826 INFO 18904 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 09:45:53,826 INFO 18904 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 09:45:54,076 INFO 18904 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 09:45:54,076 INFO 18904 [egg-security] use csrf middleware
+2018-03-08 09:45:54,086 INFO 18904 [egg-security] use methodnoallow middleware
+2018-03-08 09:45:54,086 INFO 18904 [egg-security] use noopen middleware
+2018-03-08 09:45:54,086 INFO 18904 [egg-security] use nosniff middleware
+2018-03-08 09:45:54,086 INFO 18904 [egg-security] use xssProtection middleware
+2018-03-08 09:45:54,096 INFO 18904 [egg-security] use xframe middleware
+2018-03-08 09:45:54,096 INFO 18904 [egg-security] use dta middleware
+2018-03-08 09:45:54,096 INFO 18904 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 09:45:54,148 INFO 18904 [egg-watcher:app] watcher start success
+2018-03-08 09:45:54,055 INFO 30112 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 09:45:54,137 INFO 30112 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 09:45:54,137 INFO 30112 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 09:45:54,362 INFO 30112 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 09:45:54,372 INFO 30112 [egg-security] use csrf middleware
+2018-03-08 09:45:54,372 INFO 30112 [egg-security] use methodnoallow middleware
+2018-03-08 09:45:54,372 INFO 30112 [egg-security] use noopen middleware
+2018-03-08 09:45:54,382 INFO 30112 [egg-security] use nosniff middleware
+2018-03-08 09:45:54,382 INFO 30112 [egg-security] use xssProtection middleware
+2018-03-08 09:45:54,382 INFO 30112 [egg-security] use xframe middleware
+2018-03-08 09:45:54,382 INFO 30112 [egg-security] use dta middleware
+2018-03-08 09:45:54,382 INFO 30112 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 09:45:54,432 INFO 30112 [egg-watcher:app] watcher start success
+2018-03-08 10:23:12,490 INFO 6700 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:12,778 INFO 6700 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:12,778 INFO 6700 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:13,310 INFO 6700 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:13,320 INFO 6700 [egg-security] use csrf middleware
+2018-03-08 10:23:13,324 INFO 6700 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:13,327 INFO 6700 [egg-security] use noopen middleware
+2018-03-08 10:23:13,329 INFO 6700 [egg-security] use nosniff middleware
+2018-03-08 10:23:13,341 INFO 6700 [egg-security] use xssProtection middleware
+2018-03-08 10:23:13,344 INFO 6700 [egg-security] use xframe middleware
+2018-03-08 10:23:13,346 INFO 6700 [egg-security] use dta middleware
+2018-03-08 10:23:13,346 INFO 6700 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:13,421 INFO 6700 [egg-watcher:app] watcher start success
+2018-03-08 10:23:12,495 INFO 10232 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:12,780 INFO 10232 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:12,780 INFO 10232 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:13,320 INFO 10232 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:13,332 INFO 10232 [egg-security] use csrf middleware
+2018-03-08 10:23:13,336 INFO 10232 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:13,339 INFO 10232 [egg-security] use noopen middleware
+2018-03-08 10:23:13,343 INFO 10232 [egg-security] use nosniff middleware
+2018-03-08 10:23:13,346 INFO 10232 [egg-security] use xssProtection middleware
+2018-03-08 10:23:13,348 INFO 10232 [egg-security] use xframe middleware
+2018-03-08 10:23:13,352 INFO 10232 [egg-security] use dta middleware
+2018-03-08 10:23:13,352 INFO 10232 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:13,449 INFO 10232 [egg-watcher:app] watcher start success
+2018-03-08 10:23:12,492 INFO 4072 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:12,788 INFO 4072 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:12,788 INFO 4072 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:13,338 INFO 4072 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:13,373 INFO 4072 [egg-security] use csrf middleware
+2018-03-08 10:23:13,377 INFO 4072 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:13,391 INFO 4072 [egg-security] use noopen middleware
+2018-03-08 10:23:13,420 INFO 4072 [egg-security] use nosniff middleware
+2018-03-08 10:23:13,432 INFO 4072 [egg-security] use xssProtection middleware
+2018-03-08 10:23:13,435 INFO 4072 [egg-security] use xframe middleware
+2018-03-08 10:23:13,437 INFO 4072 [egg-security] use dta middleware
+2018-03-08 10:23:13,437 INFO 4072 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:12,510 INFO 9068 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:12,791 INFO 9068 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:12,792 INFO 9068 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:13,313 INFO 9068 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:13,328 INFO 9068 [egg-security] use csrf middleware
+2018-03-08 10:23:13,332 INFO 9068 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:13,334 INFO 9068 [egg-security] use noopen middleware
+2018-03-08 10:23:13,337 INFO 9068 [egg-security] use nosniff middleware
+2018-03-08 10:23:13,339 INFO 9068 [egg-security] use xssProtection middleware
+2018-03-08 10:23:13,342 INFO 9068 [egg-security] use xframe middleware
+2018-03-08 10:23:13,344 INFO 9068 [egg-security] use dta middleware
+2018-03-08 10:23:13,344 INFO 9068 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:13,448 INFO 9068 [egg-watcher:app] watcher start success
+2018-03-08 10:23:13,512 INFO 4072 [egg-watcher:app] watcher start success
+2018-03-08 10:23:18,900 INFO 9152 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:18,980 INFO 9152 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:18,980 INFO 9152 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:19,210 INFO 9152 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:19,220 INFO 9152 [egg-security] use csrf middleware
+2018-03-08 10:23:19,220 INFO 9152 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] use noopen middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] use nosniff middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] use xssProtection middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] use xframe middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] use dta middleware
+2018-03-08 10:23:19,230 INFO 9152 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:19,310 INFO 9152 [egg-watcher:app] watcher start success
+2018-03-08 10:23:18,900 INFO 20776 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:18,980 INFO 20776 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:18,980 INFO 20776 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:19,210 INFO 20776 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:19,220 INFO 20776 [egg-security] use csrf middleware
+2018-03-08 10:23:19,220 INFO 20776 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:19,230 INFO 20776 [egg-security] use noopen middleware
+2018-03-08 10:23:19,230 INFO 20776 [egg-security] use nosniff middleware
+2018-03-08 10:23:19,230 INFO 20776 [egg-security] use xssProtection middleware
+2018-03-08 10:23:19,230 INFO 20776 [egg-security] use xframe middleware
+2018-03-08 10:23:19,240 INFO 20776 [egg-security] use dta middleware
+2018-03-08 10:23:19,240 INFO 20776 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:19,290 INFO 20776 [egg-watcher:app] watcher start success
+2018-03-08 10:23:18,921 INFO 8564 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:18,990 INFO 8564 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:18,990 INFO 8564 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:19,230 INFO 8564 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:19,230 INFO 8564 [egg-security] use csrf middleware
+2018-03-08 10:23:19,240 INFO 8564 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:19,240 INFO 8564 [egg-security] use noopen middleware
+2018-03-08 10:23:19,240 INFO 8564 [egg-security] use nosniff middleware
+2018-03-08 10:23:19,240 INFO 8564 [egg-security] use xssProtection middleware
+2018-03-08 10:23:19,250 INFO 8564 [egg-security] use xframe middleware
+2018-03-08 10:23:19,250 INFO 8564 [egg-security] use dta middleware
+2018-03-08 10:23:19,250 INFO 8564 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:19,340 INFO 8564 [egg-watcher:app] watcher start success
+2018-03-08 10:23:18,954 INFO 12232 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 10:23:19,021 INFO 12232 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 10:23:19,021 INFO 12232 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 10:23:19,261 INFO 12232 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 10:23:19,331 INFO 12232 [egg-security] use csrf middleware
+2018-03-08 10:23:19,331 INFO 12232 [egg-security] use methodnoallow middleware
+2018-03-08 10:23:19,341 INFO 12232 [egg-security] use noopen middleware
+2018-03-08 10:23:19,341 INFO 12232 [egg-security] use nosniff middleware
+2018-03-08 10:23:19,341 INFO 12232 [egg-security] use xssProtection middleware
+2018-03-08 10:23:19,341 INFO 12232 [egg-security] use xframe middleware
+2018-03-08 10:23:19,351 INFO 12232 [egg-security] use dta middleware
+2018-03-08 10:23:19,351 INFO 12232 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 10:23:19,401 INFO 12232 [egg-watcher:app] watcher start success
+2018-03-08 14:02:21,988 INFO 23440 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 14:02:22,068 INFO 23440 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 14:02:22,068 INFO 23440 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 14:02:22,308 INFO 23440 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 14:02:22,318 INFO 23440 [egg-security] use csrf middleware
+2018-03-08 14:02:22,318 INFO 23440 [egg-security] use methodnoallow middleware
+2018-03-08 14:02:22,328 INFO 23440 [egg-security] use noopen middleware
+2018-03-08 14:02:22,328 INFO 23440 [egg-security] use nosniff middleware
+2018-03-08 14:02:22,328 INFO 23440 [egg-security] use xssProtection middleware
+2018-03-08 14:02:22,328 INFO 23440 [egg-security] use xframe middleware
+2018-03-08 14:02:22,338 INFO 23440 [egg-security] use dta middleware
+2018-03-08 14:02:22,338 INFO 23440 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 14:02:22,398 INFO 23440 [egg-watcher:app] watcher start success
+2018-03-08 14:02:22,088 INFO 27552 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 14:02:22,158 INFO 27552 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 14:02:22,158 INFO 27552 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 14:02:22,438 INFO 27552 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 14:02:22,448 INFO 27552 [egg-security] use csrf middleware
+2018-03-08 14:02:22,458 INFO 27552 [egg-security] use methodnoallow middleware
+2018-03-08 14:02:22,458 INFO 27552 [egg-security] use noopen middleware
+2018-03-08 14:02:22,458 INFO 27552 [egg-security] use nosniff middleware
+2018-03-08 14:02:22,458 INFO 27552 [egg-security] use xssProtection middleware
+2018-03-08 14:02:22,458 INFO 27552 [egg-security] use xframe middleware
+2018-03-08 14:02:22,468 INFO 27552 [egg-security] use dta middleware
+2018-03-08 14:02:22,468 INFO 27552 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 14:02:22,530 INFO 27552 [egg-watcher:app] watcher start success
+2018-03-08 14:02:22,128 INFO 13920 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 14:02:22,198 INFO 13920 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 14:02:22,198 INFO 13920 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 14:02:22,508 INFO 13920 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 14:02:22,528 INFO 13920 [egg-security] use csrf middleware
+2018-03-08 14:02:22,530 INFO 13920 [egg-security] use methodnoallow middleware
+2018-03-08 14:02:22,530 INFO 13920 [egg-security] use noopen middleware
+2018-03-08 14:02:22,530 INFO 13920 [egg-security] use nosniff middleware
+2018-03-08 14:02:22,530 INFO 13920 [egg-security] use xssProtection middleware
+2018-03-08 14:02:22,540 INFO 13920 [egg-security] use xframe middleware
+2018-03-08 14:02:22,540 INFO 13920 [egg-security] use dta middleware
+2018-03-08 14:02:22,540 INFO 13920 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 14:02:22,590 INFO 13920 [egg-watcher:app] watcher start success
+2018-03-08 14:02:22,198 INFO 12264 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-08 14:02:22,268 INFO 12264 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-08 14:02:22,268 INFO 12264 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-08 14:02:22,570 INFO 12264 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-08 14:02:22,580 INFO 12264 [egg-security] use csrf middleware
+2018-03-08 14:02:22,590 INFO 12264 [egg-security] use methodnoallow middleware
+2018-03-08 14:02:22,590 INFO 12264 [egg-security] use noopen middleware
+2018-03-08 14:02:22,590 INFO 12264 [egg-security] use nosniff middleware
+2018-03-08 14:02:22,600 INFO 12264 [egg-security] use xssProtection middleware
+2018-03-08 14:02:22,600 INFO 12264 [egg-security] use xframe middleware
+2018-03-08 14:02:22,600 INFO 12264 [egg-security] use dta middleware
+2018-03-08 14:02:22,600 INFO 12264 [egg-security] compose 7 middlewares into one security middleware
+2018-03-08 14:02:22,645 INFO 12264 [egg-watcher:app] watcher start success
+2018-03-09 11:07:21,415 INFO 18200 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 11:07:21,525 INFO 18200 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 11:07:21,525 INFO 18200 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 11:07:22,285 INFO 18200 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 11:07:22,305 INFO 18200 [egg-security] use csrf middleware
+2018-03-09 11:07:22,315 INFO 18200 [egg-security] use methodnoallow middleware
+2018-03-09 11:07:22,315 INFO 18200 [egg-security] use noopen middleware
+2018-03-09 11:07:22,315 INFO 18200 [egg-security] use nosniff middleware
+2018-03-09 11:07:22,325 INFO 18200 [egg-security] use xssProtection middleware
+2018-03-09 11:07:22,325 INFO 18200 [egg-security] use xframe middleware
+2018-03-09 11:07:22,325 INFO 18200 [egg-security] use dta middleware
+2018-03-09 11:07:22,325 INFO 18200 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 11:07:22,405 INFO 18200 [egg-watcher:app] watcher start success
+2018-03-09 11:07:21,415 INFO 28768 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 11:07:21,525 INFO 28768 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 11:07:21,525 INFO 28768 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 11:07:22,285 INFO 28768 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 11:07:22,315 INFO 28768 [egg-security] use csrf middleware
+2018-03-09 11:07:22,315 INFO 28768 [egg-security] use methodnoallow middleware
+2018-03-09 11:07:22,315 INFO 28768 [egg-security] use noopen middleware
+2018-03-09 11:07:22,315 INFO 28768 [egg-security] use nosniff middleware
+2018-03-09 11:07:22,325 INFO 28768 [egg-security] use xssProtection middleware
+2018-03-09 11:07:22,325 INFO 28768 [egg-security] use xframe middleware
+2018-03-09 11:07:22,325 INFO 28768 [egg-security] use dta middleware
+2018-03-09 11:07:22,325 INFO 28768 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 11:07:22,395 INFO 28768 [egg-watcher:app] watcher start success
+2018-03-09 11:07:21,415 INFO 3420 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 11:07:21,525 INFO 3420 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 11:07:21,525 INFO 3420 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 11:07:22,295 INFO 3420 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 11:07:22,315 INFO 3420 [egg-security] use csrf middleware
+2018-03-09 11:07:22,325 INFO 3420 [egg-security] use methodnoallow middleware
+2018-03-09 11:07:22,325 INFO 3420 [egg-security] use noopen middleware
+2018-03-09 11:07:22,325 INFO 3420 [egg-security] use nosniff middleware
+2018-03-09 11:07:22,325 INFO 3420 [egg-security] use xssProtection middleware
+2018-03-09 11:07:22,325 INFO 3420 [egg-security] use xframe middleware
+2018-03-09 11:07:22,335 INFO 3420 [egg-security] use dta middleware
+2018-03-09 11:07:22,335 INFO 3420 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 11:07:21,415 INFO 12760 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 11:07:21,525 INFO 12760 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 11:07:21,525 INFO 12760 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 11:07:22,285 INFO 12760 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 11:07:22,305 INFO 12760 [egg-security] use csrf middleware
+2018-03-09 11:07:22,315 INFO 12760 [egg-security] use methodnoallow middleware
+2018-03-09 11:07:22,315 INFO 12760 [egg-security] use noopen middleware
+2018-03-09 11:07:22,315 INFO 12760 [egg-security] use nosniff middleware
+2018-03-09 11:07:22,325 INFO 12760 [egg-security] use xssProtection middleware
+2018-03-09 11:07:22,325 INFO 12760 [egg-security] use xframe middleware
+2018-03-09 11:07:22,325 INFO 12760 [egg-security] use dta middleware
+2018-03-09 11:07:22,325 INFO 12760 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 11:07:22,425 INFO 12760 [egg-watcher:app] watcher start success
+2018-03-09 11:07:22,425 INFO 3420 [egg-watcher:app] watcher start success
+2018-03-09 13:23:26,589 WARN 12760 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-09 13:23:26,589 WARN 28768 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-09 13:23:26,619 WARN 28768 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-09 13:23:26,589 WARN 18200 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-09 13:23:26,619 WARN 18200 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-09 13:23:26,589 WARN 3420 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-03-09 13:23:26,609 WARN 3420 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-03-09 15:14:30,440 INFO 9376 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 15:14:30,580 INFO 9376 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 15:14:30,580 INFO 9376 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 15:14:31,510 INFO 9376 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 15:14:31,550 INFO 9376 [egg-security] use csrf middleware
+2018-03-09 15:14:31,550 INFO 9376 [egg-security] use methodnoallow middleware
+2018-03-09 15:14:31,560 INFO 9376 [egg-security] use noopen middleware
+2018-03-09 15:14:31,560 INFO 9376 [egg-security] use nosniff middleware
+2018-03-09 15:14:31,560 INFO 9376 [egg-security] use xssProtection middleware
+2018-03-09 15:14:31,560 INFO 9376 [egg-security] use xframe middleware
+2018-03-09 15:14:31,570 INFO 9376 [egg-security] use dta middleware
+2018-03-09 15:14:31,570 INFO 9376 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 15:14:30,440 INFO 25956 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 15:14:30,590 INFO 25956 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 15:14:30,590 INFO 25956 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 15:14:31,510 INFO 25956 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 15:14:31,550 INFO 25956 [egg-security] use csrf middleware
+2018-03-09 15:14:31,550 INFO 25956 [egg-security] use methodnoallow middleware
+2018-03-09 15:14:31,560 INFO 25956 [egg-security] use noopen middleware
+2018-03-09 15:14:31,560 INFO 25956 [egg-security] use nosniff middleware
+2018-03-09 15:14:31,560 INFO 25956 [egg-security] use xssProtection middleware
+2018-03-09 15:14:31,560 INFO 25956 [egg-security] use xframe middleware
+2018-03-09 15:14:31,570 INFO 25956 [egg-security] use dta middleware
+2018-03-09 15:14:31,570 INFO 25956 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 15:14:30,430 INFO 20372 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 15:14:30,600 INFO 20372 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 15:14:30,600 INFO 20372 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 15:14:31,510 INFO 20372 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 15:14:31,550 INFO 20372 [egg-security] use csrf middleware
+2018-03-09 15:14:31,550 INFO 20372 [egg-security] use methodnoallow middleware
+2018-03-09 15:14:31,560 INFO 20372 [egg-security] use noopen middleware
+2018-03-09 15:14:31,560 INFO 20372 [egg-security] use nosniff middleware
+2018-03-09 15:14:31,560 INFO 20372 [egg-security] use xssProtection middleware
+2018-03-09 15:14:31,560 INFO 20372 [egg-security] use xframe middleware
+2018-03-09 15:14:31,570 INFO 20372 [egg-security] use dta middleware
+2018-03-09 15:14:31,570 INFO 20372 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 15:14:30,430 INFO 13248 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-09 15:14:30,580 INFO 13248 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-09 15:14:30,580 INFO 13248 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-09 15:14:31,510 INFO 13248 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-09 15:14:31,550 INFO 13248 [egg-security] use csrf middleware
+2018-03-09 15:14:31,550 INFO 13248 [egg-security] use methodnoallow middleware
+2018-03-09 15:14:31,560 INFO 13248 [egg-security] use noopen middleware
+2018-03-09 15:14:31,560 INFO 13248 [egg-security] use nosniff middleware
+2018-03-09 15:14:31,560 INFO 13248 [egg-security] use xssProtection middleware
+2018-03-09 15:14:31,560 INFO 13248 [egg-security] use xframe middleware
+2018-03-09 15:14:31,570 INFO 13248 [egg-security] use dta middleware
+2018-03-09 15:14:31,570 INFO 13248 [egg-security] compose 7 middlewares into one security middleware
+2018-03-09 15:14:31,630 INFO 13248 [egg-watcher:app] watcher start success
+2018-03-09 15:14:31,620 INFO 20372 [egg-watcher:app] watcher start success
+2018-03-09 15:14:31,620 INFO 25956 [egg-watcher:app] watcher start success
+2018-03-09 15:14:31,620 INFO 9376 [egg-watcher:app] watcher start success
+2018-03-22 09:45:26,636 INFO 5468 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 09:45:26,806 INFO 5468 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-22 09:45:26,806 INFO 5468 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-22 09:45:27,770 INFO 5468 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-22 09:45:27,800 INFO 5468 [egg-security] use csrf middleware
+2018-03-22 09:45:27,810 INFO 5468 [egg-security] use methodnoallow middleware
+2018-03-22 09:45:27,810 INFO 5468 [egg-security] use noopen middleware
+2018-03-22 09:45:27,810 INFO 5468 [egg-security] use nosniff middleware
+2018-03-22 09:45:27,820 INFO 5468 [egg-security] use xssProtection middleware
+2018-03-22 09:45:27,820 INFO 5468 [egg-security] use xframe middleware
+2018-03-22 09:45:27,820 INFO 5468 [egg-security] use dta middleware
+2018-03-22 09:45:27,820 INFO 5468 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 09:45:26,636 INFO 17680 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 09:45:26,806 INFO 17680 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-22 09:45:26,806 INFO 17680 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-22 09:45:27,770 INFO 17680 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-22 09:45:27,800 INFO 17680 [egg-security] use csrf middleware
+2018-03-22 09:45:27,810 INFO 17680 [egg-security] use methodnoallow middleware
+2018-03-22 09:45:27,810 INFO 17680 [egg-security] use noopen middleware
+2018-03-22 09:45:27,810 INFO 17680 [egg-security] use nosniff middleware
+2018-03-22 09:45:27,820 INFO 17680 [egg-security] use xssProtection middleware
+2018-03-22 09:45:27,820 INFO 17680 [egg-security] use xframe middleware
+2018-03-22 09:45:27,820 INFO 17680 [egg-security] use dta middleware
+2018-03-22 09:45:27,820 INFO 17680 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 09:45:26,636 INFO 21244 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 09:45:26,806 INFO 21244 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-22 09:45:26,806 INFO 21244 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-22 09:45:27,770 INFO 21244 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-22 09:45:27,800 INFO 21244 [egg-security] use csrf middleware
+2018-03-22 09:45:27,810 INFO 21244 [egg-security] use methodnoallow middleware
+2018-03-22 09:45:27,810 INFO 21244 [egg-security] use noopen middleware
+2018-03-22 09:45:27,810 INFO 21244 [egg-security] use nosniff middleware
+2018-03-22 09:45:27,820 INFO 21244 [egg-security] use xssProtection middleware
+2018-03-22 09:45:27,820 INFO 21244 [egg-security] use xframe middleware
+2018-03-22 09:45:27,820 INFO 21244 [egg-security] use dta middleware
+2018-03-22 09:45:27,820 INFO 21244 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 09:45:26,636 INFO 30496 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\liuzheng\\text_work\\eggReact\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggReact-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-22 09:45:26,806 INFO 30496 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\clean_log.js
+2018-03-22 09:45:26,806 INFO 30496 [egg-schedule]: register schedule C:\Users\liuzheng\text_work\eggReact\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2018-03-22 09:45:27,770 INFO 30496 [egg-static] starting static serve /public/ -> C:\Users\liuzheng\text_work\eggReact\public
+2018-03-22 09:45:27,800 INFO 30496 [egg-security] use csrf middleware
+2018-03-22 09:45:27,810 INFO 30496 [egg-security] use methodnoallow middleware
+2018-03-22 09:45:27,810 INFO 30496 [egg-security] use noopen middleware
+2018-03-22 09:45:27,810 INFO 30496 [egg-security] use nosniff middleware
+2018-03-22 09:45:27,820 INFO 30496 [egg-security] use xssProtection middleware
+2018-03-22 09:45:27,820 INFO 30496 [egg-security] use xframe middleware
+2018-03-22 09:45:27,820 INFO 30496 [egg-security] use dta middleware
+2018-03-22 09:45:27,820 INFO 30496 [egg-security] compose 7 middlewares into one security middleware
+2018-03-22 09:45:27,900 INFO 21244 [egg-watcher:app] watcher start success
+2018-03-22 09:45:27,880 INFO 5468 [egg-watcher:app] watcher start success
+2018-03-22 09:45:27,890 INFO 30496 [egg-watcher:app] watcher start success
+2018-03-22 09:45:27,900 INFO 17680 [egg-watcher:app] watcher start success

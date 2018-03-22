@@ -1,0 +1,322 @@
+{
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+    "dir": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+    "encoding": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+    "dir": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+    "maxAge": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "dynamic": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "keys": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+  "middleware": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.default.js",
+  "development": {
+    "watchDirs": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "ignoreDirs": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "fastReady": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "reactssr": {
+    "injectCss": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "doctype": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "layout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "manifest": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectHeadRegex": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectBodyRegex": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectJs": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "crossorigin": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectRes": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "fallbackToClient": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "afterRender": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "port": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+    "proxy": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+    "proxyMapping": {
+      "js": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+      "css": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+      "json": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+      "html": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js",
+      "map": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\liuzheng\\text_work\\eggReact\\config\\config.local.js",
+    "protocolWhiteList": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+      ".jsx": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+    }
+  },
+  "cors": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-cors\\config\\config.default.js",
+  "webpackreact": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg-webpack-react\\config\\config.default.js",
+  "env": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "build": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "build:test": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "build:prod": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "start": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "start:test": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "start:prod": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "kill-port": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "fix": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "ii": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "antd": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-react-ssr": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "extend": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "history": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "moment": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-router": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-router-config": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-redux": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-router-dom": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "react-router-redux": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "redux": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "autoprefixer": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-add-module-exports": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-import": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-syntax-dynamic-import": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-assign": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-transform-object-rest-spread": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-env": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "babel-preset-react": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-cli": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "easywebpack-react": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-react": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-react": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "imagemin-webpack-plugin": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "ip": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "uglifyjs-webpack-plugin": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "C:\\Users\\liuzheng\\text_work\\eggReact\\node_modules\\egg\\config\\config.default.js"
+  }
+}

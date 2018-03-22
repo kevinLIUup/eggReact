@@ -1,0 +1,81 @@
+2018-03-08 11:20:05,605 ERROR 8564 A client (::ffff:127.0.0.1:53510) error [ECONNRESET] occurred: read ECONNRESET
+2018-03-08 14:02:17,318 ERROR 18984 nodejs.ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+errno: -4058
+code: 'ENOENT'
+syscall: 'lstat'
+path: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config\\manifest.json'
+dir: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config'
+name: 'ENOENTError'
+pid: 18984
+hostname: liuzheng
+
+2018-03-09 11:07:15,836 ERROR 7704 nodejs.ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+errno: -4058
+code: 'ENOENT'
+syscall: 'lstat'
+path: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config\\manifest.json'
+dir: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config'
+name: 'ENOENTError'
+pid: 7704
+hostname: liuzheng
+
+2018-03-09 13:23:26,579 ERROR 7704 nodejs.ClusterClientNoResponseError: client no response in 482396ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\liuzheng\text_work\eggReact\node_modules\cluster-client\lib\leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 7704
+hostname: liuzheng
+
+2018-03-09 13:23:26,609 ERROR 7704 nodejs.ClusterClientNoResponseError: client no response in 482356ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\liuzheng\text_work\eggReact\node_modules\cluster-client\lib\leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 7704
+hostname: liuzheng
+
+2018-03-09 13:23:26,619 ERROR 7704 nodejs.ClusterClientNoResponseError: client no response in 480564ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\liuzheng\text_work\eggReact\node_modules\cluster-client\lib\leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 7704
+hostname: liuzheng
+
+2018-03-09 13:23:26,619 ERROR 7704 nodejs.ClusterClientNoResponseError: client no response in 482316ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\liuzheng\text_work\eggReact\node_modules\cluster-client\lib\leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 7704
+hostname: liuzheng
+
+2018-03-09 15:14:24,064 ERROR 15696 nodejs.ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+errno: -4058
+code: 'ENOENT'
+syscall: 'lstat'
+path: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config\\manifest.json'
+dir: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config'
+name: 'ENOENTError'
+pid: 15696
+hostname: liuzheng
+
+2018-03-22 09:45:19,190 ERROR 2020 nodejs.ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+ENOENTError: ENOENT: no such file or directory, lstat 'C:\Users\liuzheng\text_work\eggReact\config\manifest.json'
+errno: -4058
+code: 'ENOENT'
+syscall: 'lstat'
+path: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config\\manifest.json'
+dir: 'C:\\Users\\liuzheng\\text_work\\eggReact\\config'
+name: 'ENOENTError'
+pid: 2020
+hostname: liuzheng
+
